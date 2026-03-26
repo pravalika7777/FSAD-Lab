@@ -1,1 +1,1 @@
-Experiment 7 Files
+Experiment 7: Spring Boot CRUD Application for Course Management
